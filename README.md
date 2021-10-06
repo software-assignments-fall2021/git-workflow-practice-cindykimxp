@@ -22,3 +22,6 @@ I also think it is very important to be passionate to the work, and we should em
 
 Really interesting article! - Elizabeth Jiranek (ej984)
 
+## Comment
+
+Software engineering is not that easy. Hope all of us can become great engineers!! (By Anona Yang, yy2956)
